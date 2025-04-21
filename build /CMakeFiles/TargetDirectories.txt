@@ -1,3 +1,0 @@
-/home/rakib/code/practice/build /CMakeFiles/es.dir
-/home/rakib/code/practice/build /CMakeFiles/edit_cache.dir
-/home/rakib/code/practice/build /CMakeFiles/rebuild_cache.dir
